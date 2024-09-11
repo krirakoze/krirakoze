@@ -1,6 +1,7 @@
 # Hi, I'm Christa Irakoze 👋
 
-I'm a Data Engineer with a passion for building scalable data pipelines and making data-driven decisions. I specialize in Python, SQL, C# and cloud technologies, and I love working on big data projects and optimizing data workflows.
+I'm a Data Engineer with a passion for building scalable data pipelines and making data-driven decisions. I specialize in PSQL, C#, Python, Power Bi, Tableau, PHP, oracle ERP, MySQL, SQL server, excel, power point, world, Linux, Microsoft Office, html, css, javascript
+, and I love working on big data projects and optimizing data workflows.
 
 ## Skills & Technologies
 
