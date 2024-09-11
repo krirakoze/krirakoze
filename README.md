@@ -1,11 +1,11 @@
 # Hi, I'm Christa Irakoze 👋
 
-I'm a Data Engineer with a passion for building scalable data pipelines and making data-driven decisions. I specialize in PSQL, C#, Python, Power Bi, Tableau, PHP, oracle ERP, MySQL, SQL server, excel, power point, world, Linux, Microsoft Office, html, css, javascript
+I'm a Data Engineer with a passion for building scalable data pipelines and making data-driven decisions. I specialize in SQL, C#, Python, Power Bi, Tableau, PHP, oracle ERP, MySQL, SQL server, excel, power point, world, Linux, Microsoft Office, html, css, javascript
 , and I love working on big data projects and optimizing data workflows.
 
 ## Skills & Technologies
 
-- **Programming Languages:** Python, SQL, C#
+- **Programming Languages:** Python, SQL, C#,PHP
 - **Data Warehousing:** AWS Redshift, Google BigQuery, Snowflake
 - **Databases:** Oracle SQL Developer, MySQL, SQL Server
 - **Tools & Platforms:** Power Bi, Tableau, Excel
