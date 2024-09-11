@@ -13,10 +13,10 @@ I'm a Data Engineer with a passion for building scalable data pipelines and maki
 
 ## Featured Projects
 
-### [Real-Time Data Pipeline](https://github.com/alexjohnson/real-time-data-pipeline)
+### [Real-Time Data Pipeline](https://github.com/krirakoze/krirakoze/real-time-data-pipeline)
 Designed and implemented a real-time data pipeline using Apache Kafka and Apache Spark, resulting in a 50% reduction in data processing time.
 
-### [Data Warehouse Optimization](https://github.com/alexjohnson/data-warehouse-optimization)
+### [Data Warehouse Optimization]https://github.com/krirakoze/krirakoze/data-warehouse-optimization)
 Enhanced the performance of a data warehouse by optimizing ETL processes and implementing best practices for indexing and query optimization.
 
 Feel free to explore my repositories to see more of my work!
