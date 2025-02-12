@@ -6,17 +6,15 @@ I'm a Data Engineer with a passion for building scalable data pipelines and maki
 ## Skills & Technologies
 
 - **Programming Languages:** Python, SQL, C#,PHP
-- **Data Warehousing:** AWS Redshift, Google BigQuery, Snowflake
 - **Databases:** Oracle SQL Developer, MySQL, SQL Server
 - **Tools & Platforms:** Power Bi, Tableau, Excel
-- **Cloud Providers:** AWS, GCP, Azure
 
 ## Featured Projects
 
-### [Real-Time Data Pipeline](https://github.com/krirakoze/krirakoze/real-time-data-pipeline)
+### [Real-Time Data SQLin a telecom company econet BURUNDI](https://github.com/krirakoze/SQL-Projects)
 Designed and implemented a real-time data pipeline using Apache Kafka and Apache Spark, resulting in a 50% reduction in data processing time.
 
-### [Data Warehouse Optimization]https://github.com/krirakoze/krirakoze/data-warehouse-optimization)
+### [Real-Time Data C# in a telecom company econet BURUNDI]https://github.com/krirakoze/krirakoze/data-warehouse-optimization)
 Enhanced the performance of a data warehouse by optimizing ETL processes and implementing best practices for indexing and query optimization.
 
 Feel free to explore my repositories to see more of my work!
@@ -51,7 +49,7 @@ When I'm not working on data engineering projects, you can find me swiming, read
 
 ## Get in Touch
 
-- **LinkedIn:** [linkedin.com/in/alexjohnson](https://www.linkedin.com/in/christa-irakoze-729a5b197/)
+- **LinkedIn:** [linkedin.com/in/Christa Irakoze](https://www.linkedin.com/in/christa-irakoze-729a5b197/)
 - **Email:** krirakoze@gmail.com
 
 
